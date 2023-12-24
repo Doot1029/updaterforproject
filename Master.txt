@@ -3,6 +3,7 @@
 <End of Version>
 
 <Version: 1.02>
+/img/Alpha
 /img/Alpha/adminName.png https://i.imgur.com/TdboKTO
 /img/Alpha/nzButton_ChatGroup_All_00.png https://i.imgur.com/wEfSBZn
 /img/Alpha/nzButton_ChatGroup_All_01.png https://imgur.com/rguMkm6
