@@ -3,7 +3,6 @@
 <End of Version>
 
 <Version: 1.02>
-/img/Alpha
 /img/Alpha/adminName.png https://i.imgur.com/TdboKTO
 /img/Alpha/nzButton_ChatGroup_All_00.png https://i.imgur.com/wEfSBZn
 /img/Alpha/nzButton_ChatGroup_All_01.png https://imgur.com/rguMkm6
@@ -25,4 +24,11 @@
 /img/Alpha/nzTradeStatus_Ready.png https://imgur.com/Rmy0QvD
 /img/Alpha/nzTradeWindowPortraitBack.png https://imgur.com/xfvvJsq
 /img/Alpha/PlayerStateIcons.png https://imgur.com/SkPo2PD
+<End of Version>
+
+<Version: 1.03>
+/img/Alpha/Windows/headerLine.png https://imgur.com/MNqvth2
+/img/Alpha/Windows/windowCloseButton_00.png https://imgur.com/fbJR7iF
+/img/Alpha/Windows/windowCloseButton_01.png https://imgur.com/XwZDo6S
+/img/Alpha/Windows/windowFrame.png https://imgur.com/kUx0Eie
 <End of Version>
