@@ -1,3 +1,27 @@
 <Version: 1.01>
 /img/SumRndmDde/auto-update https://imgur.com/a/MXQfyhf
 <End of Version>
+
+<Version: 1.02>
+/img/Alpha/adminName.png https://i.imgur.com/TdboKTO
+/img/Alpha/nzButton_ChatGroup_All_00.png https://i.imgur.com/wEfSBZn
+/img/Alpha/nzButton_ChatGroup_All_01.png https://imgur.com/rguMkm6
+/img/Alpha/nzButton_ChatGroup_All_03.png https://imgur.com/yXL4CFI
+/img/Alpha/nzButton_ChatGroup_Map_00.png https://imgur.com/rpiNI7O
+/img/Alpha/nzButton_ChatGroup_Map_01.png https://imgur.com/vkevXZL
+/img/Alpha/nzButton_ChatGroup_Map_03.png https://imgur.com/oBZJU7k
+/img/Alpha/nzButton_ChatSendMV_00.png https://imgur.com/fC0iznC
+/img/Alpha/nzButton_ChatSendMV_01.png https://imgur.com/m8Hys4c
+/img/Alpha/nzClickEffect.png https://imgur.com/nslthhv
+/img/Alpha/nzModalNoButton_00.png https://imgur.com/SA9yVen
+/img/Alpha/nzModalNoButton_01.png https://imgur.com/23VQv9J
+/img/Alpha/nzModalYesButton_00.png https://imgur.com/iSFzVRj
+/img/Alpha/nzModalYesButton_01.png https://imgur.com/jrQqtUv
+/img/Alpha/nzTradeButton_00.png https://imgur.com/5KJYelM
+/img/Alpha/nzTradeButton_01.png https://imgur.com/Gy4Cycp
+/img/Alpha/nzTradeHeader.png https://imgur.com/SBBR1o5
+/img/Alpha/nzTradeStatus_NotReady.png https://imgur.com/QQyoogv
+/img/Alpha/nzTradeStatus_Ready.png https://imgur.com/Rmy0QvD
+/img/Alpha/nzTradeWindowPortraitBack.png https://imgur.com/xfvvJsq
+/img/Alpha/PlayerStateIcons.png https://imgur.com/SkPo2PD
+<End of Version>
